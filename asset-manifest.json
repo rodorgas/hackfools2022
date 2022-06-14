@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://rodorgas.github.io/hackfools2022/static/css/main.4cee66b0.css",
-    "main.js": "https://rodorgas.github.io/hackfools2022/static/js/main.b9450695.js",
-    "index.html": "https://rodorgas.github.io/hackfools2022/index.html",
-    "main.4cee66b0.css.map": "https://rodorgas.github.io/hackfools2022/static/css/main.4cee66b0.css.map",
-    "main.b9450695.js.map": "https://rodorgas.github.io/hackfools2022/static/js/main.b9450695.js.map"
+    "main.css": "https://uspcodelab.github.io/hackfools2022/static/css/main.4cee66b0.css",
+    "main.js": "https://uspcodelab.github.io/hackfools2022/static/js/main.f57baaa8.js",
+    "index.html": "https://uspcodelab.github.io/hackfools2022/index.html",
+    "main.4cee66b0.css.map": "https://uspcodelab.github.io/hackfools2022/static/css/main.4cee66b0.css.map",
+    "main.f57baaa8.js.map": "https://uspcodelab.github.io/hackfools2022/static/js/main.f57baaa8.js.map"
   },
   "entrypoints": [
     "static/css/main.4cee66b0.css",
-    "static/js/main.b9450695.js"
+    "static/js/main.f57baaa8.js"
   ]
 }
